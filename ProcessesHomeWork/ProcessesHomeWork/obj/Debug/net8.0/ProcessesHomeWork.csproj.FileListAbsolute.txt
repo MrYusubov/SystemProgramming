@@ -1,0 +1,14 @@
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\bin\Debug\net8.0\ProcessesHomeWork.exe
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\bin\Debug\net8.0\ProcessesHomeWork.deps.json
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\bin\Debug\net8.0\ProcessesHomeWork.runtimeconfig.json
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\bin\Debug\net8.0\ProcessesHomeWork.dll
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\bin\Debug\net8.0\ProcessesHomeWork.pdb
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\obj\Debug\net8.0\ProcessesHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\obj\Debug\net8.0\ProcessesHomeWork.AssemblyInfoInputs.cache
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\obj\Debug\net8.0\ProcessesHomeWork.AssemblyInfo.cs
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\obj\Debug\net8.0\ProcessesHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\obj\Debug\net8.0\ProcessesHomeWork.dll
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\obj\Debug\net8.0\refint\ProcessesHomeWork.dll
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\obj\Debug\net8.0\ProcessesHomeWork.pdb
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\obj\Debug\net8.0\ProcessesHomeWork.genruntimeconfig.cache
+C:\Users\Mr.Yusubov\Documents\GitHub\SystemProgrammingHomeWorks\ProcessesHomeWork\ProcessesHomeWork\obj\Debug\net8.0\ref\ProcessesHomeWork.dll
