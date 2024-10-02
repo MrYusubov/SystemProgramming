@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxzMATfDtMQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mr.Yusubov\\Documents\\GitHub\\SystemProgramming\\CriticalSectionsHomeWork\\CriticalSectionsHomeWork\\CriticalSectionsHomeWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr.Yusubov\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
